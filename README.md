@@ -1,0 +1,2 @@
+WordPress-Chehrak-Favicon
+=========================
